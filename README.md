@@ -1,2 +1,2 @@
 # SalihSelametogluBlog
-Blow text of www.salihselametoglu.com 
+Blow text of https://salihselametoglu.netlify.app/index.html
